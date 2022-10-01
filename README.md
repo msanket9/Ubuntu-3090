@@ -1,1 +1,1 @@
-# Ubuntu-3090
+# Ubuntu-3090ti
